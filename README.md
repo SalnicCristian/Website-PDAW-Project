@@ -1,2 +1,2 @@
 # Website-PDAW-Project
-Created with CodeSandbox
+Personal repository used for studying and testing HTML and CSS features.
